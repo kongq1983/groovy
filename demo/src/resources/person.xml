@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<persons>
+
+    <person id="1" name="king">
+        <address>hangzhou</address>
+    </person>
+
+    <person id="2" name="kong">
+        <address>zhoushan</address>
+    </person>
+
+</persons>
